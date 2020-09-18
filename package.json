@@ -1,0 +1,14 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "converts",
+  "main": "index.js",
+  "scripts": {
+    "test": "convert"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
